@@ -46,10 +46,5 @@ Note: The Error metric is in log values. To convert to original values, use expo
 
 Out of the 6 models, linear regression is the top performer with the least cv score.
 
-You can also use hyperparameter tuning to improve the model performance.
 
-You can further try other models like XGBoost, CatBoost etc.
-
-
-In this project tutorial, we have explored the Bigmart Sales dataset. We learned the uses of one hot encoding in the dataset. We also compared different models to train the data starting from basic to advanced models.
 
