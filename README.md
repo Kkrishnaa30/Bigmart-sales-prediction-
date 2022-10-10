@@ -41,7 +41,8 @@ Mean Squared Error: 0.28
 
 Note: The Error metric is in log values. To convert to original values, use exponentiation.
 
-Final Thoughts
+Final Thoughts:
+
 Out of the 6 models, linear regression is the top performer with the least cv score.
 
 You can also use hyperparameter tuning to improve the model performance.
