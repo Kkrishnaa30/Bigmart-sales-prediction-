@@ -23,13 +23,13 @@ Item_Outlet_Sales	Sales of the product in the particulat store. This is the outc
 
 Dataset link : https://www.kaggle.com/datasets/aakash2016/big-mart-sales-dataset
 
-Libraries:
+#Libraries:
 pandas
 matplotlib
 seaborn
 scikit-learn
 
-Algorithms:
+#Algorithms:
 Linear Regression
 Ridge
 Lasso
@@ -41,7 +41,7 @@ Mean Squared Error: 0.28
 
 Note: The Error metric is in log values. To convert to original values, use exponentiation.
 
-Final Thoughts:
+#Final Thoughts:
 
 Out of the 6 models, linear regression is the top performer with the least cv score.
 
